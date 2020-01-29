@@ -1,0 +1,19 @@
+{
+  "ToDo": [
+    {
+      "id": 2,
+      "kegiatan": "bertani",
+      "selesai": false
+    },
+    {
+      "id": 3,
+      "kegiatan": "mabar",
+      "selesai": false
+    },
+    {
+      "id": 4,
+      "kegiatan": "main",
+      "selesai": true
+    }
+  ]
+}
